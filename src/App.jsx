@@ -6,7 +6,7 @@ import Experience from './components/experience/Experience.jsx'
 import Services from './components/services/Services.jsx'
 import Portfolio from './components/portfolio/Portfolio.jsx'
 import Testimonials from './components/testimonials/Testimonials.jsx'
-import Contact from './components/contact/Contact.jsx'
+import Contact from './components/contact/contact.jsx'
 import Footer from './components/footer/Footer.jsx'
 
 const App = () => {
