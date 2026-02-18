@@ -18,21 +18,21 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Web developing Sample1',
+    title: 'Game developing Sample1 in Unity',
     github: 'https://github.com',
-    demo: 'https://project2-react-8j2f.vercel.app/'
+    demo: 'https://drive.google.com/file/d/1bNWSzjetUTAFNuZibbUExTVQt6TkEOGr/view?usp=sharing'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Web developing Sample2',
+    title: 'Game developing Sample2 in Unity (Unfinished)',
     github: 'https://github.com',
-    demo: 'https://drive.google.com/file/d/1EY20LxcjlEboj_vlCynLxzNtPUSjt4dn/view?usp=drive_link'
+    demo: 'https://drive.google.com/file/d/1siP5FH48ctXi-MGsFeqYBBL9rQPhO3-O/view?usp=sharing'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Photoshop Artwork',
+    title: 'Character Artwork',
     github: 'https://github.com',
     demo: 'https://drive.google.com/file/d/1Ny5IY8J9w0jeTbPCaZyyeK0raKU2iU0K/view?usp=drive_link'
   },
@@ -46,7 +46,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: 'Sample inventory system Made in Unreal Engine Game Dev. (incomple)',
+    title: 'Game developing Sample3 in Unreal (Inventory System)',
     github: 'https://github.com',
     demo: 'https://drive.google.com/file/d/1IT-pSqu12Jq3IXru_bXymR_Ykms4HMhz/view?usp=sharing'
   },
